@@ -7,7 +7,7 @@ public class M20417 {
 	public static void main(String[] args) {
 		Scanner ab = new Scanner(System.in);
 		
-/*//과제 1
+//과제 1
 		System.out.println("정수를 입력하세요.");
 		int num = ab.nextInt();
 		
@@ -61,7 +61,7 @@ public class M20417 {
 			int n3 = num2%10;
 			System.out.println(n1+"+"+n2+"+"+n3+"="+(n1+n2+n3));
 		}
-		else {System.out.println("다시 3자리의 정수를 입력하세요.");}*/
+		else {System.out.println("다시 3자리의 정수를 입력하세요.");}
 //과제 6
 		System.out.println("연필>>");
 		int pen = ab.nextInt();
